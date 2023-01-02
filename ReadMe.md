@@ -1,6 +1,6 @@
 # Hola 👋, mi nombre es Jeremias
 
-Soy Técnico en Informática Profesional y Personal
+Soy Técnico en Informática Profesional
 
 - 👨‍💻 Actualmente estoy trabajando en [fundamentos-nodejs](https://github.com/Jeremias0901/fundamentos-de-nodejs)
 - 🌱 Actualmente estoy aprendiendo NodeJS
