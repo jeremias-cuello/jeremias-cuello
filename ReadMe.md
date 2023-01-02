@@ -8,7 +8,7 @@ Soy Técnico en Informática Profesional
 - 📫 Cómo contactarme: [cuellojeremiasnatanael@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&source=mailto&to=cuellojeremiasnatanael@gmail.com&body=Hola%2c+te+contacto+desde+GitHub.)
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Profesional de Git y GitHub
 
-[![Certificado Platzi](certificados/git-github.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/)
+[![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/git-github.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/)
 <!-- - ⚡ Dato curioso: Resuelvo cubos de Rubik 3x3 -->
 
 ### Tecnicatura | Proyectos y Actividades
