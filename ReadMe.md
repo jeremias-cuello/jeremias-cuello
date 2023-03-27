@@ -1,16 +1,17 @@
 # Hola 👋, mi nombre es Jeremias
 
 Soy Técnico en Informática Profesional
-Actualmente estoy estudiando la Ingeniería en Sistemas de Información
+
 <!--
 - 👨‍💻 Actualmente estoy trabajando en [fundamentos-nodejs](https://github.com/Jeremias0901/fundamentos-de-nodejs)
 - 🌱 Actualmente estoy aprendiendo NodeJS
 - 👯 Colaboro en [Liquidador-de-Sueldos](https://github.com/Jeremias0901/Liquidador-de-Sueldos)
 -->
-- 📫 Cómo contactarme: [cuellojeremiasnatanael@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&source=mailto&to=cuellojeremiasnatanael@gmail.com&body=Hola%2c+te+contacto+desde+GitHub.)
+- 👨‍🎓 Actualmente estoy estudiando la Ingeniería en Sistemas de Información en Universidad Tecnológica Nacional
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Profesional de Git y GitHub
+- 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Básico de JavaScript
+- 📫 Cómo contactarme: [cuellojeremiasnatanael@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&source=mailto&to=cuellojeremiasnatanael@gmail.com&body=Hola%2c+te+contacto+desde+GitHub.)
 
-[![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/git-github.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/)
 [![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/basico-javascript.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1814-course/diploma/detalle/)
 <!-- - ⚡ Dato curioso: Resuelvo cubos de Rubik 3x3 -->
 
@@ -20,7 +21,7 @@ A lo largo de la tecnicatura realice proyectos, actividades y trabajos práctico
 
 Estos son algunos:
 
-- **LooanBooks** Proyecto para las materias *Modelos-y-Sistemas* y *Base de Datos*. [Repositorio](https://github.com/Jeremias0901/Loanbooks)
+- **LooanBooks** Proyecto para las materias *Modelos y Sistemas* y *Base de Datos*. [Repositorio](https://github.com/Jeremias0901/Loanbooks)
 - **DoctorOffice** Proyecto para las materias *Proyecto, Diseño e Implementación de Sistemas Computacionales*. [Repositorio](https://github.com/Jeremias0901/DoctorOffice)
 - **COTEUS** Este proyecto fue mi proyecto final de la tecnicatura. [Repositorio](https://github.com/Jeremias0901/COTEUS)
 
@@ -55,7 +56,9 @@ Estos son algunos:
 <!-- Servidores -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg"/>
 
+<!--
 ### Aprendiendo
 
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+-->
 </div>
