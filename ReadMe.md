@@ -10,12 +10,15 @@ Soy Técnico en Informática Profesional
 - 👨‍🎓 Actualmente estoy estudiando la Ingeniería en Sistemas de Información en Universidad Tecnológica Nacional
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Profesional de Git y GitHub
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Básico de JavaScript
+- 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/) del Curso JavaScript Engine (V8) y el Navegador
 - 📫 Cómo contactarme: [cuellojeremiasnatanael@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&source=mailto&to=cuellojeremiasnatanael@gmail.com&body=Hola%2c+te+contacto+desde+GitHub.)
-
-[![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/basico-javascript.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1814-course/diploma/detalle/)
 <!-- - ⚡ Dato curioso: Resuelvo cubos de Rubik 3x3 -->
 
-### Tecnicatura | Proyectos y Actividades
+[![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/basico-javascript.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1814-course/diploma/detalle/)
+
+[![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/javascript-engine-navegador.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/)
+
+## Tecnicatura | Proyectos y Actividades
 
 A lo largo de la tecnicatura realice proyectos, actividades y trabajos prácticos para la acreditación de las materias.
 
@@ -25,12 +28,12 @@ Estos son algunos:
 - **DoctorOffice** Proyecto para las materias *Proyecto, Diseño e Implementación de Sistemas Computacionales*. [Repositorio](https://github.com/Jeremias0901/DoctorOffice)
 - **COTEUS** Este proyecto fue mi proyecto final de la tecnicatura. [Repositorio](https://github.com/Jeremias0901/COTEUS)
 
-### Lenguajes y Herramientas con los que trabajé
+## Lenguajes y Herramientas con los que trabajé
 
 <div>
 <!-- Backend -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>    
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 
 <!-- SQL -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
@@ -42,7 +45,7 @@ Estos son algunos:
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 
 <!-- Sistemas de control de Versiones -->
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>    
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 
 <!-- Frameworks, IDEs y Editores de Texto -->
