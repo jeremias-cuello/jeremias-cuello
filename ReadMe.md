@@ -27,6 +27,7 @@ Estos son algunos:
 - **LooanBooks** Proyecto para las materias *Modelos y Sistemas* y *Base de Datos*. [Repositorio](https://github.com/Jeremias0901/Loanbooks)
 - **DoctorOffice** Proyecto para las materias *Proyecto, Diseño e Implementación de Sistemas Computacionales*. [Repositorio](https://github.com/Jeremias0901/DoctorOffice)
 - **COTEUS** Este proyecto fue mi proyecto final de la tecnicatura. [Repositorio](https://github.com/Jeremias0901/COTEUS)
+- **Liquidador de Sueldos** Proyecto para el taller *Laboratorio de Aplicaciones* (2021). [Repositorio](https://github.com/Jeremias0901/Liquidador-de-Sueldos)
 
 ## Lenguajes y Herramientas con los que trabajé
 
