@@ -1,13 +1,11 @@
 # Hola 👋, mi nombre es Jeremias
 
-Soy Técnico en Informática Profesional
+Soy Técnico en Informática Profesional. Apasionado del desarrollo de aplicaciones y de la programación. Me interesan las arquitecturas de software, los patrones de diseño, algoritmos (complejidad, diseño, etc.) y estructuras de datos (pilas, arboles, grafos, etc.).
 
 <!--
-- 👨‍💻 Actualmente estoy trabajando en [fundamentos-nodejs](https://github.com/Jeremias0901/fundamentos-de-nodejs)
 - 🌱 Actualmente estoy aprendiendo NodeJS
 - 👯 Colaboro en [Liquidador-de-Sueldos](https://github.com/Jeremias0901/Liquidador-de-Sueldos)
 -->
-- 👨‍🎓 Actualmente estoy estudiando la Ingeniería en Sistemas de Información en Universidad Tecnológica Nacional
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Profesional de Git y GitHub
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Básico de JavaScript
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/) del Curso JavaScript Engine (V8) y el Navegador
@@ -17,6 +15,8 @@ Soy Técnico en Informática Profesional
 [![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/basico-javascript.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1814-course/diploma/detalle/)
 
 [![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/javascript-engine-navegador.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/)
+
+[![Certificado Platzi](https://jeremiascuello.000webhostapp.com/certificados/git-github.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/)
 
 ## Tecnicatura | Proyectos y Actividades
 
@@ -31,8 +31,6 @@ Estos son algunos:
 
 ## Lenguajes y Herramientas con los que trabajé
 
-<div>
-<!-- Backend -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 
@@ -60,9 +58,7 @@ Estos son algunos:
 <!-- Servidores -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg"/>
 
+<!-- Aprendiendo -->
 <!--
-### Aprendiendo
-
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 -->
-</div>
