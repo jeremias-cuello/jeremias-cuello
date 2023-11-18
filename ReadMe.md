@@ -31,6 +31,8 @@ Estos son algunos:
 
 ## Lenguajes y Herramientas con los que trabajé
 
+<div>
+
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 
@@ -62,3 +64,5 @@ Estos son algunos:
 <!--
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 -->
+
+</div>
