@@ -3,7 +3,7 @@
 Soy Técnico en Informática Profesional. Apasionado del desarrollo de aplicaciones y de la programación. Me interesan las arquitecturas de software, los patrones de diseño, algoritmos (complejidad, diseño, etc.) y estructuras de datos (pilas, arboles, grafos, etc.).
 
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Profesional de Git y GitHub
-- 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Básico de JavaScript
+- 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1814-course/diploma/detalle/) del Curso Básico de JavaScript
 - 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/) del Curso JavaScript Engine (V8) y el Navegador
 - 📫 Cómo contactarme: [cuellojeremiasnatanael@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&source=mailto&to=cuellojeremiasnatanael@gmail.com&body=Hola%2c+te+contacto+desde+GitHub.)
 - ⚡ Dato curioso: Resuelvo cubos de Rubik 3x3
