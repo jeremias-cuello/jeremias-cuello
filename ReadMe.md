@@ -2,15 +2,19 @@
 
 Soy Técnico en Informática Profesional. Apasionado del desarrollo de aplicaciones y de la programación. Me interesan las arquitecturas de software, los patrones de diseño, algoritmos (complejidad, diseño, etc.) y estructuras de datos (pilas, arboles, grafos, etc.).
 
-- 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Profesional de Git y GitHub
-- 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1814-course/diploma/detalle/) del Curso Básico de JavaScript
-- 👨‍🎓 [Certificado de Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/) del Curso JavaScript Engine (V8) y el Navegador
+- 👨‍🎓 [Certificado Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/) del Curso Profesional de Git y GitHub
+- 👨‍🎓 [Certificado Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1814-course/diploma/detalle/) del Curso Básico de JavaScript
+- 👨‍🎓 [Certificado Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/) del Curso JavaScript Engine (V8) y el Navegador
+- 👨‍🎓 [Certificado Platzi](https://platzi.com/p/cuellojeremiasnatanael/curso/1759-fundamentos-node/diploma/detalle/) del Curso Fundamentos de Node.js
 - 📫 Cómo contactarme: [cuellojeremiasnatanael@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&source=mailto&to=cuellojeremiasnatanael@gmail.com&body=Hola%2c+te+contacto+desde+GitHub.)
+- 🖥️ [Perfil de LeetCode](https://leetcode.com/u/jeremias-cuello/)
 - ⚡ Dato curioso: Resuelvo cubos de Rubik 3x3
 
 [![Certificado Platzi](img/basicoJS.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1814-course/diploma/detalle/)
 
 [![Certificado Platzi](img/JSEngineNavegador.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/)
+
+[![Certificado Platzi](img/nodeJS.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1759-fundamentos-node/diploma/detalle/)
 
 [![Certificado Platzi](img/gitGitHub.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/)
 
@@ -67,3 +71,11 @@ Estos son algunos:
 <a href="https://jeremias-cuello.000webhostapp.com"><img src="img/pagina.png" width=30/></a>
 
 </div>
+
+### Para tener a mano
+
+``` Shell
+git config alias.st=status
+git config alias.ck=checkout
+git config alias.sp=log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+```
