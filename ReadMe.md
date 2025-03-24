@@ -14,7 +14,7 @@ Soy Técnico en Informática Profesional. Apasionado del desarrollo de aplicacio
 
 [![Certificado Platzi](img/JSEngineNavegador.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1798-javascript-navegador/diploma/detalle/)
 
-[![Certificado Platzi](img/nodeJS.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1759-fundamentos-node/diploma/detalle/)
+[![Certificado Platzi](./img/fundamentosNodeJS.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1759-fundamentos-node/diploma/detalle/)
 
 [![Certificado Platzi](img/gitGitHub.png)](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/)
 
